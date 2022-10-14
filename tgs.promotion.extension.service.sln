@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tgs.promotion.extension.service", "tgs.promotion.extension.service\tgs.promotion.extension.service.csproj", "{2BD57FD1-7B4F-4495-9F49-C27B0268360B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tgs.promotion.extension.core", "tgs.promotion.extension.core\tgs.promotion.extension.core.csproj", "{E4023352-3955-4A1E-918B-E977C66B2BDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BD57FD1-7B4F-4495-9F49-C27B0268360B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD57FD1-7B4F-4495-9F49-C27B0268360B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD57FD1-7B4F-4495-9F49-C27B0268360B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD57FD1-7B4F-4495-9F49-C27B0268360B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4023352-3955-4A1E-918B-E977C66B2BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4023352-3955-4A1E-918B-E977C66B2BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4023352-3955-4A1E-918B-E977C66B2BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4023352-3955-4A1E-918B-E977C66B2BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15648D13-CA15-423B-8751-E801954CFA3C}
+	EndGlobalSection
+EndGlobal
